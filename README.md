@@ -12,3 +12,5 @@ https://tcpenn.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Tyler Pennington
+
+### ©️2019 Run Buddy, Inc 
